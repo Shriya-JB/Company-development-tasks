@@ -42,10 +42,3 @@ This repository follows a standard development workflow:
 4. Test in development environment
 5. Deploy to running projects
 
-## Contributing
-
-Feel free to add your own development tasks, patches, and learnings to this repository.
-
-## Contact
-
-For questions or more information, please reach out to the SpanIdea development team.
